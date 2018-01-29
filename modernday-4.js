@@ -23,7 +23,7 @@ function draw() {
 /*
 var mondrian_colors = ['blue','red','white','black','yellow']         
 
-function draw(color) {
+function draw() {
   for (var color in mondrian_colors) {
     strokeWeight(4);
     fill(random(color));
